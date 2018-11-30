@@ -1,8 +1,8 @@
-# Adonis Logentries <img src="https://reps.ams3.cdn.digitaloceanspaces.com/logentries_logo.png" alt="Logentries icon" width="25px" height="25px">
+# Adonis Logger Cloudwatch
 
 This service provider adds Logentries as a driver to Adonis Logger.
 
-It is built on top of [le_node](https://github.com/rapid7/le_node).
+It is built on top of [winston-cloudwatch](https://www.npmjs.com/package/winston-cloudwatch).
 
 <img src="http://res.cloudinary.com/adonisjs/image/upload/q_100/v1497112678/adonis-purple_pzkmzt.svg" width="200px" align="right" hspace="30px" vspace="140px">
 
