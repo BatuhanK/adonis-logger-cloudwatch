@@ -1,6 +1,6 @@
 {
   "name": "adonis-logger-cloudwatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cloudwatch driver for Adonis Logger",
   "main": "index.js",
   "scripts": {
