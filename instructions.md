@@ -15,7 +15,9 @@ cloudwatch: {
   name: 'cloudwatch-test',
   logGroupName: 'gifmaker',
   logStreamName: 'tests',
-  awsRegion: 'us-east-2'
+  awsRegion: 'us-east-2',
+  awsAccessKeyId: 'your-aws-key',
+  awsSecretKey: 'your-aws-secret'
 }
 ```
 
