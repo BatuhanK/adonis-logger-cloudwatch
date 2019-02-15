@@ -51,5 +51,13 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BatuhanK/adonis-logger-cloudwatch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BatuhanK/adonis-logger-cloudwatch/issues"
+  },
+  "homepage": "https://github.com/BatuhanK/adonis-logger-cloudwatch#readme"
 }
